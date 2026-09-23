@@ -8,4 +8,3 @@
 - Nguyễn Bá Hiệu
 - Thiều Đình Hưng
 - Vũ Viết Thành 
-Cài đặt: pip install PyQt5
